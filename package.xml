@@ -6,12 +6,13 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>SFDCDesktopDevelopment__c.Branch_BitBucket_Deploy_Status__c</members>
         <members>SFDCDesktopDevelopment__c.WorkItem__c</members>
         <members>SFDCDesktopDevelopment__c.Sprint__c</members>
         <members>SFDCDesktopDevelopment__c.Project__c</members>
         <members>SFDCDesktopDevelopment__c.ScrumTeam__c</members>
         <members>SFDCDesktopDevelopment__c.ReleaseName__c</members>
-        <members>SFDCDesktopDevelopment__c.Branch_BitBucket_Deploy_Status__c</members>
+        <members>SFDCDesktopDevelopment__c.ReleaseDate__c</members>
         <name>CustomField</name>
     </types>
     <version>57.0</version>
