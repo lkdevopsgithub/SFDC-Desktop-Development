@@ -188,43 +188,60 @@
     </fields>
     <fields>
         <fullName>WorkItem__c</fullName>
+        <externalId>false</externalId>
         <label>WorkItem</label>
         <length>100</length>
         <required>false</required>
+        <trackTrending>false</trackTrending>
         <type>Text</type>
-     </fields>
-     <fields>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Sprint__c</fullName>
+        <externalId>false</externalId>
         <label>Sprint</label>
         <length>100</length>
         <required>false</required>
+        <trackTrending>false</trackTrending>
         <type>Text</type>
-     </fields>
-     <fields>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Project__c</fullName>
+        <externalId>false</externalId>
         <label>Project</label>
         <length>100</length>
         <required>false</required>
+        <trackTrending>false</trackTrending>
         <type>Text</type>
-     </fields>
-     <fields>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ScrumTeam__c</fullName>
+        <externalId>false</externalId>
         <label>ScrumTeam</label>
         <length>100</length>
         <required>false</required>
+        <trackTrending>false</trackTrending>
         <type>Text</type>
-     </fields>
-     <fields>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ReleaseName__c</fullName>
+        <externalId>false</externalId>
         <label>ReleaseName</label>
         <length>100</length>
         <required>false</required>
+        <trackTrending>false</trackTrending>
         <type>Text</type>
-     </fields>
-     <fields>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ReleaseDate__c</fullName>
+        <externalId>false</externalId>
         <label>ReleaseDate</label>
         <required>false</required>
+        <trackTrending>false</trackTrending>
         <type>Date</type>
-     </fields>
+    </fields>
 </CustomObject>
