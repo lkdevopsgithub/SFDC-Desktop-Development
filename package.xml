@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>devopspkg</fullName>
+    <types>
+        <members>SFDCDesktopDevelopment__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SFDCDesktopDevelopment__c.WorkItem__c</members>
+        <members>SFDCDesktopDevelopment__c.Sprint__c</members>
+        <members>SFDCDesktopDevelopment__c.Project__c</members>
+        <members>SFDCDesktopDevelopment__c.ScrumTeam__c</members>
+        <members>SFDCDesktopDevelopment__c.ReleaseName__c</members>
+        <members>SFDCDesktopDevelopment__c.Branch_BitBucket_Deploy_Status__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>57.0</version>
+</Package>
