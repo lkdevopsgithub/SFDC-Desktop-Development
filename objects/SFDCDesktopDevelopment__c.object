@@ -224,7 +224,6 @@
      <fields>
         <fullName>ReleaseDate__c</fullName>
         <label>ReleaseDate</label>
-        <length>100</length>
         <required>false</required>
         <type>Date</type>
      </fields>
